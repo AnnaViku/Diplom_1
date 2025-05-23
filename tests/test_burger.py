@@ -1,3 +1,4 @@
+
 import pytest
 from unittest.mock import MagicMock
 from praktikum.burger import Burger
